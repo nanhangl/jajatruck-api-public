@@ -1,0 +1,25 @@
+{
+  "name": "jajatruck-api-public",
+  "version": "1.0.0",
+  "description": "api for jajatruck",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanhangl/jajatruck-api-public.git"
+  },
+  "author": "nan hang lim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nanhangl/jajatruck-api-public/issues"
+  },
+  "homepage": "https://github.com/nanhangl/jajatruck-api-public#readme",
+  "dependencies": {
+    "cookie": "^0.4.1",
+    "firebase-admin": "^9.7.0",
+    "jsonwebtoken": "^8.5.1",
+    "uuid": "^8.3.2"
+  }
+}
